@@ -1,0 +1,38 @@
+{
+    "directories": {
+        "adsdir": "\\\\192.168.3.62\\pubnt\\AdTracker\\",
+        "ssdir": "\\\\192.168.3.62\\pubnt\\SS\\"
+    },
+    "drivers": {
+        "browser": "chrome",
+        "chromedriver": {
+            "hidden": false,
+            "path": "config/chromedriver.exe"
+        }
+    },
+    "packages": [
+        "psycopg2",
+        "pillow",
+        "selenium",
+        "pathlib",
+        "xmltodict",
+        "python-dateutil",
+        "requests",
+        "psutil"
+    ],
+    "services": {
+        "builder": {
+            "threads": 0
+        },
+        "optimizer": {
+            "frequency": 60,
+            "threads": 0
+        },
+        "tracker": {
+            "pool": [
+                111
+            ],
+            "threads": 6
+        }
+    }
+}

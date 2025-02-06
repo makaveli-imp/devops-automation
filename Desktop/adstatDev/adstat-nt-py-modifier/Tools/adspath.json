@@ -1,0 +1,64 @@
+>
+    "41":{
+        "popup_close":[],
+        "ads_xpath":[
+            "//*[@id='google_ads_iframe_/14727465/MA_header_ads_970x250_0']",
+            "//*[@id='google_ads_iframe_/14727465/MA_article_ads_300x600_0']",
+            "//*[@id='google_ads_iframe_/14727465/MA_footer_ads_970x250_0']",
+            "//*[@id='google_ads_iframe_/14727465/MA_top_article_0']",
+            "//*[@id='google_ads_iframe_/14727465/MA_Sidebar_article_300x600_0']",
+            "//*[@id='google_ads_iframe_/14727465/MA_header_ads_970x250_1']",
+            "//*[@id='google_ads_iframe_/14727465/MA_middle_article_0']",
+            "//*[@id='google_ads_iframe_/14727465/MA_footer_article_0']"
+        ],
+        "ads_to_close":[],
+        "articl_xpath":[
+            "//*[@id='wrapper-habillage']/div[1]/div/div[3]/div/div[3]/div/div/div/div/div/div/div/div[1]/div[1]",
+            "//*[@id='wrapper-habillage']/div[1]/div/div[3]/div/div[3]/div/div/div/div/div/div/div/div[1]/div[1]"
+        ]
+    },
+    "42":{
+        "popup_close":[],
+        "ads_xpath":[
+            "(//iframe[starts-with(@src, 'https://googleads')] | //iframe[starts-with(@src, 'https://ad.doubleclick.net')] | //iframe[contains(@id, 'google_ads_iframe')])[1]",
+            "(//iframe[starts-with(@src, 'https://googleads')] | //iframe[starts-with(@src, 'https://ad.doubleclick.net')] | //iframe[contains(@id, 'google_ads_iframe')])[2]",
+            "(//iframe[starts-with(@src, 'https://googleads')] | //iframe[starts-with(@src, 'https://ad.doubleclick.net')] | //iframe[contains(@id, 'google_ads_iframe')])[3]",
+            "(//iframe[starts-with(@src, 'https://googleads')] | //iframe[starts-with(@src, 'https://ad.doubleclick.net')] | //iframe[contains(@id, 'google_ads_iframe')])[4]",
+            "(//iframe[starts-with(@src, 'https://googleads')] | //iframe[starts-with(@src, 'https://ad.doubleclick.net')] | //iframe[contains(@id, 'google_ads_iframe')])[5]",
+            "(//iframe[starts-with(@src, 'https://googleads')] | //iframe[starts-with(@src, 'https://ad.doubleclick.net')] | //iframe[contains(@id, 'google_ads_iframe')])[6]"
+        ],
+        "ads_to_close":[],
+        "articl_xpath":[
+            "//*[@id='wrapper-habillage']/div[1]/div/div[3]/div/div[3]/div/div/div/div/div/div/div/div[1]/div[1]",
+            "//*[@id='wrapper-habillage']/div[1]/div/div[3]/div/div[3]/div/div/div/div/div/div/div/div[1]/div[1]"
+        ]
+    },
+    "43":{
+        "popup_close":[],
+        "ads_xpath":[
+            // "(//iframe[starts-with(@src, 'https://googleads')] | //iframe[starts-with(@src, 'https://ad.doubleclick.net')] | //iframe[contains(@id, 'google_ads_iframe')])[1]",
+            // "(//iframe[starts-with(@src, 'https://googleads')] | //iframe[starts-with(@src, 'https://ad.doubleclick.net')] | //iframe[contains(@id, 'google_ads_iframe')])[2]",
+            // "(//iframe[starts-with(@src, 'https://googleads')] | //iframe[starts-with(@src, 'https://ad.doubleclick.net')] | //iframe[contains(@id, 'google_ads_iframe')])[3]",
+            // "(//iframe[starts-with(@src, 'https://googleads')] | //iframe[starts-with(@src, 'https://ad.doubleclick.net')] | //iframe[contains(@id, 'google_ads_iframe')])[4]",
+            // "(//iframe[starts-with(@src, 'https://googleads')] | //iframe[starts-with(@src, 'https://ad.doubleclick.net')] | //iframe[contains(@id, 'google_ads_iframe')])[5]",
+            // "(//iframe[starts-with(@src, 'https://googleads')] | //iframe[starts-with(@src, 'https://ad.doubleclick.net')] | //iframe[contains(@id, 'google_ads_iframe')])[6]"
+            "//*[@id='google_ads_iframe_/14727465/MA_header_ads_970x250_0']",
+            "//*[@id='google_ads_iframe_/14727465/MA_article_ads_300x600_0']",
+            "//*[@id='google_ads_iframe_/14727465/MA_footer_ads_970x250_0']",
+            "//*[@id='google_ads_iframe_/14727465/MA_top_article_0']",
+            "//*[@id='google_ads_iframe_/14727465/MA_Sidebar_article_300x600_0']",
+            "//*[@id='google_ads_iframe_/14727465/MA_header_ads_970x250_1']",
+            "//*[@id='google_ads_iframe_/14727465/MA_middle_article_0']",
+            "//*[@id='google_ads_iframe_/14727465/MA_footer_article_0']"
+           
+
+        ],
+        "ads_to_close":[],
+        "articl_xpath":[
+            "//*[@id='wrapper-habillage']/div[1]/div/div[3]/div/div[3]/div/div/div/div/div/div/div/div[1]/div[1]",
+            "//*[@id='wrapper-habillage']/div[1]/div/div[3]/div/div[3]/div/div/div/div/div/div/div/div[1]/div[1]",
+            "//*[@id='revive-0-0']/a/img"
+        ]
+
+    }
+}
